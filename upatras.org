@@ -1,0 +1,138 @@
+#+TITLE: University of Patras
+#+DATE: Sunday 3 Nov 2013
+#+AUTHOR: Chris Perivolaropoulos
+#+EMAIL: darksaga2006@gmail.com
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:nil date:t e:t email:nil
+#+OPTIONS: f:t inline:t num:t p:nil pri:nil prop:nil stat:t
+#+OPTIONS: tags:not-in-toc tasks:t tex:t timestamp:t toc:nil todo:t |:t
+#+CREATOR: Emacs 24.3.1 (Org mode 8.2.1)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+
+#+startup: beamer
+#+OPTIONS: H:2
+#+BEAMER_COLOR_THEME:
+#+BEAMER_FONT_THEME:
+#+BEAMER_HEADER:
+#+BEAMER_INNER_THEME:
+#+BEAMER_OUTER_THEME:
+#+BEAMER_THEME: default
+#+LATEX_CLASS: beamer
+#+LATEX_CLASS_OPTIONS: [bigger]
+#+LATEX_HEADER: \PassOptionsToPackage{demo}{graphicx}
+#+LATEX_HEADER_EXTRA: \usebackgroundtemplate{\parbox[c][\paperheight][c]{\paperwidth}{\vfill\hfill\includegraphics[width=1.5in]{logo.jpg}\hspace{5pt}\vspace{10pt}}}
+
+
+#+COLUMNS: %40ITEM %10BEAMER_env(Env) %9BEAMER_envargs(Env Args) %4BEAMER_col(Col) %10BEAMER_extra(Extra)
+#+BEAMER_FRAME_LEVEL: 3
+* The University
+
+** History
+   - 11th November 1964 :: Founded in paper
+   - 30th November 1966 :: Ceremony on the celebration of st. Andrew
+        the patron saint of Patras and the University
+
+** International relationships
+   Participates in European funded academic programs:
+   - *LLP/Erasmus* (200 other European universities)
+   - *Tempus:* Modernization of education, western Mediterranean region
+   - *Jean Monnet Chairs:* Like teaching callenges for professors
+   - *Erasmus Mundus:* Scholarships
+
+** Departments (general)
+    - Economics, 1985
+    - Business Administration, 1999
+    - Biology, 1966
+    - Chemistry, 1966
+    - Geology, 1977
+    - Material Science, 1999
+    - Mathematics, 1966
+    - Physics, 1966
+    - Medicine, 1983
+    - Pharmacy, 1983
+    - Early Childhood Education, 1983
+    - Primary Education, 1983
+    - Philology, 1994
+    - Philosophy, 1999
+    - Theatre Studies, 1989
+    - /Some other ones in Aigio/
+
+** Engineering Departments
+    - Electrical Engineering, 1967
+    - Computer Engineering and Informatics, 1980
+    - Architecture, 1999
+    - Chemical Engineering, 1977
+    - Civil Engineering, 1972
+    - Mechanical Engineering, 1972
+
+** Student Benefits
+   - Housing
+   - Catering
+   - Student pass for public transportation
+   - Healthcare
+   - Scholarships
+   - /some more minor ones/
+
+** Academic Campus Life
+   - Conference & culture center
+   - University Press (PUP: Publications of University of Patras)
+   - Distinguished speeches
+   - University library and information center
+   - Museums
+     - Botanic Museum
+     - Science and Technology Museum
+     - Museum of Education
+
+** Non-academic Campus Life
+  - Cultural Groups
+  - CBMDP (Blood and Bone marrow awareness and recruitment)
+  - Foreign visitor dormitory
+  - UP-FM
+  - University Church
+  - Sports Center
+  - Animal Shelter
+
+** Picture!
+   [[./campus.jpg]]
+
+* Electrical Engineering Department
+** Electrical Engineering
+   There are 4 divisions in our department
+  - Electric Power Division
+  - Telecomunications and Electronis Division
+  - Electronics and Computers Division
+  - Systems and Control Division
+
+** Electric Power Division
+     - Electric Power Systems Lab
+     - /Electrotechnic Materials Laboratory/
+     - Electromechanical Conversion Lab
+     - High Voltage Lab
+
+** Telecommunications and Electronics Division
+    - Wireless Communications Laboratory
+    - Wire Communication Laboratory
+    - Laboratory of Electromagnetics
+    - Applied Electronics Laboratory
+
+** Electronics and Computers
+    - Applied Electronics Laboratory
+    - Computer Systems Laboratory
+    - VLSI Design Laboratory
+    - Human Computer Interaction Group
+
+** Systems and Control
+    - Laboratory of Automation and Robotics
+    - Systems and Measurements Laboratory
+    - Automatic Control Laboratory
+* Epilogue
+** Thanx
+   - LC Tallinn & everyone who helped
+   - Observer Patras chairwoman Memeletzoglou Nafsika.
+
+   University of Patras: [[http://www.upatras.gr][http://www.upatras.gr]] \\
+   Electrical Engineering Dpt.: http://www.ece.upatras.gr
